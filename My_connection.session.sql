@@ -1,0 +1,1 @@
+SELECT * From foo_Items
